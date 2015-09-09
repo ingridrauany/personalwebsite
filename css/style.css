@@ -1,0 +1,30 @@
+body {
+	text-align: center;
+}
+
+header {
+	background: url('http://36.media.tumblr.com/f193d10d1e581d378628de972b907582/tumblr_ntq4h52Yct1uf0nwno3_1280.jpg');
+	background-size: cover;
+	color: #CD2626;
+}
+
+li {
+	display: inline;
+	padding: 0px 10px 0px 10px;
+}
+
+a {
+	text-decoration: none;
+	display: inline-block;
+	background-color: #828282;
+	color: #CD2626;
+	padding: 10px 20px;
+	text-decoration: none;
+	box-sizing: border-box;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	border: 0px;
+	border-radius: 5px;
+	position: relative;
+	bottom: 15px;
+}
