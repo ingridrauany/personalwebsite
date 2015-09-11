@@ -1,9 +1,12 @@
 body {
 	text-align: center;
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+	font-family: Loma;
 }
 
 header {
-	background: url('http://36.media.tumblr.com/f193d10d1e581d378628de972b907582/tumblr_ntq4h52Yct1uf0nwno3_1280.jpg');
+	background: url('http://36.media.tumblr.com/f193d10d1e581d378628de972b907582/tumblr_ntq4h52Yct1uf0nwno3_1280.jpg') no-repeat center top fixed;
 	background-size: cover;
 	color: #CD2626;
 }
@@ -13,6 +16,7 @@ li {
 	padding: 0px 10px 0px 10px;
 }
 
+
 a {
 	text-decoration: none;
 	display: inline-block;
@@ -21,7 +25,6 @@ a {
 	padding: 10px 20px;
 	text-decoration: none;
 	box-sizing: border-box;
-	font-family: Helvetica, Arial, sans-serif;
 	font-size: 14px;
 	border: 0px;
 	border-radius: 5px;
